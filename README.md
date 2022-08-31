@@ -1,1 +1,1 @@
-# movie-app
+# movie-app --- React.js + Next.js + Redux Toolkit + TypeScript + Tailwind
